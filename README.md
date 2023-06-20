@@ -1,4 +1,3 @@
-![Wave Up](./waveup.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F70000&background=FF000000&center=true&width=435&lines=I+am+16+years+old;I+am+from+Egypt;I+am+a+Full+Stack+Web+Developer)](https://git.io/typing-svg)
 
@@ -24,4 +23,3 @@
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ahmeddvlpr) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AhmedDvlpr) 
 
-![Wave Down](./wavedown.svg)
